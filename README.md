@@ -58,8 +58,7 @@ O projeto utiliza JavaScript puro para manipulação de dados e interface, inclu
 ![Preview](./img/cardapio-kingCheese.png)
 ![Preview](./img/carrinho-Kingcheese.png)
 
-## 🌐 Acesse o projeto online
-👉 https://edrobraga.github.io/pizzaria-kingcheese
+
 ## 📦 Como rodar o projeto
 
 ```bash
