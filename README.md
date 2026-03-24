@@ -52,6 +52,11 @@ O projeto utiliza JavaScript puro para manipulação de dados e interface, inclu
 
 ---
 
+## 🌐 Acesse o site e veja o projeto rodando
+https://pizzaria-kingcheese.vercel.app/
+
+---
+
 ## 📸 Preview do projeto
 ![Preview](./img/home-kingcheese.png)
 ![Preview](./img/sobre-nos-kingCheese.png)
